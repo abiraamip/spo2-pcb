@@ -1,11 +1,11 @@
-🩺 DIY SpO₂ Module PCB Design
+# 🩺 DIY SpO₂ Module PCB Design
 
-📌 Overview
+## 📌 Overview
 A pulse oximeter is a non-invasive biomedical device used to monitor:
 •	SpO₂ (Peripheral Oxygen Saturation): The percentage of oxygen-carrying hemoglobin present in the blood. 
 •	Heart Rate (Pulse Rate): The number of heartbeats per minute (BPM). 
 
-⚙️ Working Principle
+## ⚙️ Working Principle
 The SpO₂ module operates using the principle of photoplethysmography (PPG).
 The sensor emits two different wavelengths of light through a fingertip or earlobe:
 •	🔴 Red Light (~660 nm) 
